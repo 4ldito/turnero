@@ -1,0 +1,4 @@
+HOST=localhost
+DATABASE=sistema_turnos
+USER=root
+PASSWORD=
